@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EdwardBro from Finland
+- 👋 Hi, I’m @EdwardBro from Finland :finland:
 - 👀 I’m interested in Mobile, Fullstack or Software Development positions
 - 🌱 I’m currently learning Typescript, Docker, .NET
 - 💞️ I’m looking to collaborate with a team of professionals developing high-qulitative products!
