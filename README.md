@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EdwardBro from Finland :finland:
-- 👀 I’m interested in Mobile, Fullstack or Software Development positions
+- 👀 I’m interested in Mobile, Fullstack or Frontend Development positions
 - 🌱 I’m currently learning Vite, Bun and PostgreSQL
 - 💞️ I’m looking to collaborate with a team of professionals developing high-qualitative products!
 - 📫 How to reach me:
