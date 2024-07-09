@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @EdwardBro from Finland :finland:
-- 👀 I’m interested in Mobile, Fullstack or Frontend Development positions
-- 🌱 I’m currently learning Vite, Bun and PostgreSQL
+- 👋 Hi, I’m @EdwardBro from Finland, Turku :finland:
+- 👀 I’m interested in Mobile, Fullstack or Software Development positions
+- 🌱 I’m currently learning Docker and Express
 - 💞️ I’m looking to collaborate with a team of professionals developing high-qualitative products!
 - 📫 How to reach me:
 
@@ -9,6 +9,7 @@
 
 - My skills:
 - React, Typescript, Java(Android programming, OSGi framework), Firebase, Google Cloud Platform, HTML, CSS(SCSS, SASS), MVC.NET, C#, SQL
+- JavaScript, Vite.js, Webpack, Tailwind, Next.js, Redux
 
 <!---
 EdwardBro/EdwardBro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
