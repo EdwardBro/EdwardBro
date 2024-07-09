@@ -11,6 +11,8 @@
 - React, Typescript, Java(Android programming, OSGi framework), Firebase, Google Cloud Platform, HTML, CSS(SCSS, SASS), MVC.NET, C#, SQL
 - JavaScript, Vite.js, Webpack, Tailwind, Next.js, Redux
 
+![](https://komarev.com/ghpvc/?username=edwardbro&color=red)
+
 <!---
 EdwardBro/EdwardBro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
