@@ -1,7 +1,11 @@
 - 👋 Hi, I’m @EdwardBro from Finland, Turku :finland:
+- 📈 3+ years experience in full-stack development
+- 📜 BEng in IT, Xamk, 2021
+- 🗣️ Speak 🇬🇧 🇫🇮
+
 - 👀 I’m interested in Mobile, Fullstack or Software Development positions
 - 🌱 I’m currently learning Docker and Express
-- 💞️ I’m looking to collaborate with a team of professionals developing high-qualitative products!
+- 💞️ I’m looking forward to collaborating with a team of professionals developing high-qualitative products!
 - 📫 How to reach me:
 
   -  LinkedIn: https://www.linkedin.com/in/edward-brovkin-088996151/
