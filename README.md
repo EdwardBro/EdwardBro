@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @EdwardBro from Finland, Turku :finland:
 - 📈 3+ years experience in full-stack development
 - 📜 BEng in IT, Xamk, 2021
-- 🗣️ Speak 🇬🇧 🇫🇮
 
 - 👀 I’m interested in Mobile, Fullstack or Software Development positions
 - 🌱 I’m currently learning Docker and Express
