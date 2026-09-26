@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EdwardBro from Turku, Finland :finland:
-- 📈 4+ years experience in web and software development
+- 📈 3+ years experience in web and software development
 - 📜 BEng in Information Technology, Xamk, 2017 - 2021
 - 📜 MSc student in Health Technology, University of Turku, 2024 - present
 
