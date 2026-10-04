@@ -9,7 +9,7 @@
   
  📫 How to reach me:
 
-  - LinkedIn: https://www.linkedin.com/in/edward-brovkin-088996151/
+  - LinkedIn: https://www.linkedin.com/in/edvard-brovkin
   - Email: edbr.dev@gmail.com
 
 My skills:
